@@ -1,2 +1,1 @@
-# PrepCours
-Prueba del modulo 2
+Es una prueba de puedo puedo crear un Repositorio y clonarlo desde Github a mi escritorio local.
